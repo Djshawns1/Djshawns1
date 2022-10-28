@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  color: #dfd0f1;
+}
+h2 {
+  text-align: center;
+  color: #f6e7cb;
+}
+body {
+  background-color: #555b6e;
+}
+.pic1,
+.pic2,
+.pic3,
+.pic4,
+.pic5,
+.pic6,
+.pic7 {
+  /* max-width: 50%; */
+  height: auto;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
+  color: beige;
+}
+.pic1:hover {
+  transform: scaleX(-1);
+}
+.pic1 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+.pic1:hover {
+  border: 1px solid #777;
+}
+
+/* .pic1 img {
+  width: 100%;
+  height: auto;
+} */
+/* add a description under the pic */
+.desc {
+  padding: 5px;
+  text-align: center;
+  color: #b86f52;
+}
+h3,
+h4 {
+  text-align: center;
+  color: #f6e7cb;
+  padding: 5px;
+}
+/* body {
+} */
