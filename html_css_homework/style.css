@@ -37,6 +37,7 @@ body {
   width: 180px;
 }
 
+<<<<<<< HEAD
 .pic1:hover {
   border: 1px solid #777;
 }
@@ -59,3 +60,28 @@ h4 {
 }
 /* body {
 } */
+=======
+.pic1:hover {
+  border: 1px solid #777;
+}
+
+/* .pic1 img {
+  width: 100%;
+  height: auto;
+} */
+/* add a description under the pic */
+.desc {
+  padding: 5px;
+  text-align: center;
+  color: #b86f52;
+}
+h3,
+h4 {
+  text-align: center;
+  color: #f6e7cb;
+  padding: 5px;
+}
+/* body {
+} */
+
+>>>>>>> 958b433d0cf57087a7f9b49bf80d25965c819222
